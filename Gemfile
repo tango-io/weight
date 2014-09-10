@@ -28,6 +28,7 @@ gem 'spring',        group: :development
 
 gem 'pry'
 gem 'pry-rails'
+gem 'devise'
 
 group :test do
   gem 'rspec'
